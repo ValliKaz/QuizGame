@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8acccbe4ce559d14782451d55d39a142, type: 3}
+  m_Name: MCQ
+  m_EditorClassIdentifier: 
+  category: MCQ
+  questions:
+  - questionText: 'What is the primary objective for the Terrorist team in a Bomb
+      Defusal map like Dust2? '
+    replies:
+    - 'Capture hostages '
+    - Plant and detonate the C4 bomb
+    - 'Eliminate all Counter-Terrorists '
+    - Secure a VIP
+    correctReplyIndex: 2
+    questionImage: {fileID: -6536258781649178774, guid: 7718ee78247fdc64b9f9eed58b8c7119, type: 3}
+  - questionText: Which engine powers Counter-Strike 2?
+    replies:
+    - Unreal Engine
+    - 'Source 2 '
+    - Unity
+    - CryEngine
+    correctReplyIndex: 2
+    questionImage: {fileID: -565524028554355596, guid: a02da0b71fe48414fbffa18fcd5c45b5, type: 3}
+  - questionText: 'What is the cost of an AWP in CS2? '
+    replies:
+    - $3,150
+    - $2,700
+    - $5,000
+    - $4,750
+    correctReplyIndex: 4
+    questionImage: {fileID: -6754454002406289127, guid: 7bac4823f6439e2458561e5c0df3a493, type: 3}
+  - questionText: 'Which map is known for its desert-themed environment and is one
+      of the most iconic in CS2? '
+    replies:
+    - Mirage
+    - Inferno
+    - Nuke
+    - Overpass
+    correctReplyIndex: 1
+    questionImage: {fileID: 762663243325830112, guid: da6ed9485927e8842b002ed564127a02, type: 3}
+  - questionText: 'What is the maximum number of players in a standard CS2 competitive
+      match? '
+    replies:
+    - 8
+    - 12
+    - 10
+    - 16
+    correctReplyIndex: 3
+    questionImage: {fileID: 863249001913498052, guid: 8cc12ba5bbb9a034a99d20cb567142e1, type: 3}
+  - questionText: 'Which grenade in CS2 can create a temporary wall of smoke? '
+    replies:
+    - Flashbang
+    - HE Grenade
+    - 'Smoke Grenade '
+    - Molotov
+    correctReplyIndex: 3
+    questionImage: {fileID: -3147246946506057123, guid: 74a18d1ec8f7cb04e873e1c5398a45c5, type: 3}
+  - questionText: 'What is the name of the anti-cheat system used in CS2? '
+    replies:
+    - 'Easy Anti-Cheat '
+    - 'VAC (Valve Anti-Cheat) '
+    - BattlEye
+    - FairFight
+    correctReplyIndex: 2
+    questionImage: {fileID: -3980872671113785484, guid: a9ad3a789cf5d2245bd4e5ab3b88cda5, type: 3}
+  - questionText: Which weapon is exclusive to the Counter-Terrorist team in CS2?
+    replies:
+    - 'AK-47 '
+    - Glock-18
+    - Galil AR
+    - M4A4
+    correctReplyIndex: 4
+    questionImage: {fileID: 5283710926531571782, guid: a77b56c27d726a4459648749f34c2e6d, type: 3}
+  - questionText: 'What is the tick rate of official CS2 matchmaking servers? '
+    replies:
+    - 64
+    - 32
+    - 256
+    - 128
+    correctReplyIndex: 4
+    questionImage: {fileID: 8648663177465284334, guid: 62ec34458fef9c34486ed0b3dfc3902c, type: 3}
+  - questionText: 'Which of these is a new feature in CS2 compared to CS:GO? '
+    replies:
+    - Volumetric smoke grenades
+    - Bunny hopping
+    - Wallbanging
+    - Spray patterns
+    correctReplyIndex: 1
+    questionImage: {fileID: 6653940217166091446, guid: 8ccafa4513aff6343b5f0fa0c8e9bca9, type: 3}

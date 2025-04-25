@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb55eeebf7510ba45b57060fd79382ac, type: 3}
+  m_Name: WordQuiz
+  m_EditorClassIdentifier: 
+  quizzes:
+  - Image: {fileID: 762663243325830112, guid: da6ed9485927e8842b002ed564127a02, type: 3}
+    correctWord: MIRAGE
+  - Image: {fileID: -6754454002406289127, guid: 7bac4823f6439e2458561e5c0df3a493, type: 3}
+    correctWord: AWP
+  - Image: {fileID: -2923076949365144892, guid: 755b7f548b4587c448c0450dfabf15aa, type: 3}
+    correctWord: GLOCK
+  - Image: {fileID: -3021532576210085758, guid: 8743230a51cdc2f4a82187917087f83c, type: 3}
+    correctWord: DEAGLE
+  - Image: {fileID: -2662431900836689957, guid: 165990e01b5d2f34ea4faa7c46e9e1fa, type: 3}
+    correctWord: AK
+  - Image: {fileID: -6904993738866491137, guid: 3126461359ab5d445a779f2209f7dec9, type: 3}
+    correctWord: MOLOTOV
+  - Image: {fileID: 5573677705117097120, guid: b25b73543c3183a4d8aafd797aa800ad, type: 3}
+    correctWord: GRENADE
+  - Image: {fileID: 2028779997487926423, guid: e7859354508d292419ff8747aac52db9, type: 3}
+    correctWord: DEFUSE
+  - Image: {fileID: 5444017954800087529, guid: 443f10f44ca1dc04a87e6c072a844ffd, type: 3}
+    correctWord: SCOPE
+  - Image: {fileID: -6112431773231115032, guid: 53be47388b28ce545ad1bf46f82c4105, type: 3}
+    correctWord: BOOST

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: ebb6e6dc1ed57f040938101ccad17582
+  - enabled: 1
+    path: Assets/Scenes/Select.unity
+    guid: 3173ef7fd817d01499ccda1e4212fac9
+  - enabled: 1
+    path: Assets/Scenes/Quiz1.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Quiz2.unity
+    guid: 671bd8f93360c0f46b598e9e89f25880
+  - enabled: 1
+    path: Assets/Scenes/Quiz3.unity
+    guid: 7a785cec62fa5ab47affc93f6354704c
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
