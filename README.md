@@ -76,6 +76,4 @@ This interactive quiz game challenges players' knowledge of CS:GO through multip
 5. Track your progress through different levels
 6. Try to achieve the highest score possible
 
-## Contributing
-
-Feel free to submit issues and enhancement requests!
+Built with ❤️ by ValliKaz
